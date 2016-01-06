@@ -1,5 +1,5 @@
 # LeetCodeCpp
-LeetCode C++ Solution TestCase
+LeetCode/C++/Solution&TestCase
 
 This repo for solve LeetCode questions with C++ and enable some test case for each solutions.
 -------------------------------------------------------------------------------------------------
