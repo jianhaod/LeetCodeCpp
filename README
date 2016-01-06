@@ -7,6 +7,7 @@ This repo for solve LeetCode questions with C++ and enable some test case for ea
 LeetCode problem list:
 #292 Nim Game
 #258 Add Digits
+#104 Maximum Depth of Binary Tree  
 
 ------------------------------------------------------------------------------------------------
 Details Description and Expand:
@@ -42,3 +43,17 @@ https://github.com/jianhaod/LeetCodeCpp/blob/master/LeetCodeCpp/258_AddDigits.cp
 
 Explanation:
 Could you do it without any loop/recursion in O(1) runtime?
+
+
+#104 Maximum Depth of Binary Tree
+LeetCode Link:
+https://leetcode.com/problems/maximum-depth-of-binary-tree/
+Problem descriptiocriptiocriptiocription:
+Given a binary tree, find its maximum depth.The maximum depth is the number of nodes along the longest
+path from the root node down to the farthest leaf node.
+
+Source code:
+https://github.com/jianhaod/LeetCodeCpp/blob/master/LeetCodeCpp/104_MaximumDepthBinaryTree.cpp
+
+Explanation:
+How to use non-recursive algorthim to solve this problem?
