@@ -11,6 +11,7 @@ LeetCode problem list:
 #237 Delete Node in a Linked List
 #283 Move Zeroes
 #226 Invet Binary Tree
+#100 Same Tree
 
 ------------------------------------------------------------------------------------------------
 Details Description and Expand:
@@ -111,6 +112,20 @@ to
 
 Source code:
 https://github.com/jianhaod/LeetCodeCpp/blob/master/LeetCodeCpp/226_InvertBinaryTree.cpp
+
+Expand:
+How to use non-recursive algorthim to solve this problem?
+
+#100 Same Tree
+LeetCode Link:
+https://leetcode.com/problems/same-tree/
+Problem description:
+Given two binary trees, write a function to check if they are equal or not.
+Two binary trees are considered equal if they are structurally identical and the nodes have the same value.
+
+
+Source code:
+https://github.com/jianhaod/LeetCodeCpp/blob/master/LeetCodeCpp/100_SameTree.cpp
 
 Expand:
 How to use non-recursive algorthim to solve this problem?
