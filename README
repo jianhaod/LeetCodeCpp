@@ -10,6 +10,7 @@ LeetCode problem list:
 #104 Maximum Depth of Binary Tree  
 #237 Delete Node in a Linked List
 #283 Move Zeroes
+#226 Invet Binary Tree
 
 ------------------------------------------------------------------------------------------------
 Details Description and Expand:
@@ -90,3 +91,26 @@ Source code:
 https://github.com/jianhaod/LeetCodeCpp/blob/master/LeetCodeCpp/283_MoveZeroes.cpp
 
 Expand:
+
+#226 Invert Binary Tree
+LeetCode Link:
+https://leetcode.com/problems/invert-binary-tree/
+Problem description:
+Invert a binary tree.
+    	   4
+  	 /   \
+        2     7
+       / \   / \
+      1   3 6   9
+to
+	   4
+	 /   \
+        7     2
+       / \   / \
+      9   6 3   1
+
+Source code:
+https://github.com/jianhaod/LeetCodeCpp/blob/master/LeetCodeCpp/226_InvertBinaryTree.cpp
+
+Expand:
+How to use non-recursive algorthim to solve this problem?
