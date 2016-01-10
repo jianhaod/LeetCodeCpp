@@ -13,6 +13,7 @@ LeetCode problem list:
 #226 Invet Binary Tree
 #100 Same Tree
 #242 Valid Anagram
+#217 Contains Dumplicate
 
 ------------------------------------------------------------------------------------------------
 Details Description and Expand:
@@ -147,3 +148,15 @@ https://github.com/jianhaod/LeetCodeCpp/blob/master/LeetCodeCpp/242_ValidAnagram
 
 Expand:
 What if the inputs contain unicode characters? How would you adapt your solution to such case?
+
+#217 Contains Duplicate
+LeetCode Link:
+https://leetcode.com/problems/contains-duplicate/
+Problem description:
+Given an array of integers, find if the array contains any duplicates. Your function should return true if any value appears at least twice in the array, and it should return false if every element is distinct.
+
+Source code:
+https://github.com/jianhaod/LeetCodeCpp/blob/master/LeetCodeCpp/217_ContainsDuplicate.cpp
+
+Expand:
+what about time limitation?
