@@ -14,6 +14,7 @@ LeetCode problem list:
 #100 Same Tree
 #242 Valid Anagram
 #217 Contains Dumplicate
+#169 Majority Element
 
 ------------------------------------------------------------------------------------------------
 Details Description and Expand:
@@ -160,3 +161,17 @@ https://github.com/jianhaod/LeetCodeCpp/blob/master/LeetCodeCpp/217_ContainsDupl
 
 Expand:
 what about time limitation?
+
+#169 Majority Element
+LeetCode Link:
+https://leetcode.com/problems/majority-element/
+Problem description:
+Given an array of size n, find the majority element. The majority element is the element that appears more than ? n/2 ? times.
+You may assume that the array is non-empty and the majority element always exist in the array.
+
+Source code:
+https://github.com/jianhaod/LeetCodeCpp/blob/master/LeetCodeCpp/169_MajorityElement.cpp
+
+Expand:
+how about the array is empty? and if no majority element is not exist?
+
