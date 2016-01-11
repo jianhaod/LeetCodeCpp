@@ -15,6 +15,7 @@ LeetCode problem list:
 #242 Valid Anagram
 #217 Contains Dumplicate
 #169 Majority Element
+#235 Lowest Common Ancestor of a Binary Search Tree
 
 ------------------------------------------------------------------------------------------------
 Details Description and Expand:
@@ -175,3 +176,20 @@ https://github.com/jianhaod/LeetCodeCpp/blob/master/LeetCodeCpp/169_MajorityElem
 Expand:
 how about the array is empty? and if no majority element is not exist?
 
+#235 Lowest Common Ancestor of a Binary Search Tree
+LeetCode Link:
+https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+Problem description:
+Given a binary search tree (BST), find the lowest common ancestor (LCA) of two given nodes in the BST.
+According to the definition of LCA on Wikipedia: ¡The lowest common ancestor is defined between two nodes v and w as the lowest node in T that has both v and w as descendants (where we allow a node to be a descendant of itself).
+	        _______6______
+	       /              \
+	   ___2__          ___8__
+	  /      \        /      \
+         0      _4       7       9
+               /  \
+              3   5
+For example, the lowest common ancestor (LCA) of nodes 2 and 8 is 6. Another example is LCA of nodes 2 and 4 is 2, since a node can be a descendant of itself according to the LCA definition.
+
+Source code:
+https://github.com/jianhaod/LeetCodeCpp/blob/master/LeetCodeCpp/235_LowestCommonAncestor.cpp
