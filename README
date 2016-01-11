@@ -16,6 +16,7 @@ LeetCode problem list:
 #217 Contains Dumplicate
 #169 Majority Element
 #235 Lowest Common Ancestor of a Binary Search Tree
+#191 Number of 1 Bits
 
 ------------------------------------------------------------------------------------------------
 Details Description and Expand:
@@ -193,3 +194,15 @@ For example, the lowest common ancestor (LCA) of nodes 2 and 8 is 6. Another exa
 
 Source code:
 https://github.com/jianhaod/LeetCodeCpp/blob/master/LeetCodeCpp/235_LowestCommonAncestor.cpp
+
+#191 Number of 1 Bits
+LeetCode Link:
+https://leetcode.com/problems/number-of-1-bits/
+Problem description:
+Write a function that takes an unsigned integer and returns the number of ¡1' bits it has (also known as the Hamming weight).
+For example, the 32-bit integer ¡11' has binary representation 00000000000000000000000000001011, so the function should return 3.
+
+Source code:
+https://github.com/jianhaod/LeetCodeCpp/blob/master/LeetCodeCpp/191_NumberOfBits.cpp
+
+Expand:
