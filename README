@@ -17,6 +17,7 @@ LeetCode problem list:
 #169 Majority Element
 #235 Lowest Common Ancestor of a Binary Search Tree
 #191 Number of 1 Bits
+#206 Reverse Linked List
 
 ------------------------------------------------------------------------------------------------
 Details Description and Expand:
@@ -206,3 +207,16 @@ Source code:
 https://github.com/jianhaod/LeetCodeCpp/blob/master/LeetCodeCpp/191_NumberOfBits.cpp
 
 Expand:
+
+
+#206 Reverse Linked List
+LeetCode Link:
+https://leetcode.com/problems/reverse-linked-list/
+Problem description:
+Reverse a singly linked list.
+
+Source code:
+https://github.com/jianhaod/LeetCodeCpp/blob/master/LeetCodeCpp/206_ReservseLinkedList.cpp
+
+Expand:
+A linked list can be reversed either iteratively or recursively. Could you implement both?
