@@ -18,6 +18,7 @@ LeetCode problem list:
 #235 Lowest Common Ancestor of a Binary Search Tree
 #191 Number of 1 Bits
 #206 Reverse Linked List
+#326 Power of Three
 
 ------------------------------------------------------------------------------------------------
 Details Description and Expand:
@@ -220,3 +221,15 @@ https://github.com/jianhaod/LeetCodeCpp/blob/master/LeetCodeCpp/206_ReservseLink
 
 Expand:
 A linked list can be reversed either iteratively or recursively. Could you implement both?
+
+#326 Power of Three
+LeetCode Link:
+https://leetcode.com/problems/power-of-three/
+Problem description:
+Given an integer, write a function to determine if it is a power of three.
+
+Source code:
+https://github.com/jianhaod/LeetCodeCpp/blob/master/LeetCodeCpp/326_PowerOfThree.cpp
+
+Expand:
+Could you do it without using any loop / recursion?
