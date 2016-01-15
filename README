@@ -20,6 +20,7 @@ LeetCode problem list:
 #206 Reverse Linked List
 #326 Power of Three
 #70 Climbing Stairs
+#231 Power of Two
 
 ------------------------------------------------------------------------------------------------
 Details Description and Expand:
@@ -257,6 +258,17 @@ Note that 1 is typically treated as an ugly number.
 
 Source code:
 https://github.com/jianhaod/LeetCodeCpp/blob/master/LeetCodeCpp/263_UglyNumber.cpp
+
+Expand:
+
+#231 Power of Two
+LeetCode Link:
+https://leetcode.com/problems/power-of-two/
+Problem description:
+Given an integer, write a function to determine if it is a power of two.
+
+Source code:
+https://github.com/jianhaod/LeetCodeCpp/blob/master/LeetCodeCpp/231_PowerOfTwo.cpp
 
 Expand:
 
