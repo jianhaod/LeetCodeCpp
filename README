@@ -21,6 +21,7 @@ LeetCode problem list:
 #326 Power of Three
 #70 Climbing Stairs
 #231 Power of Two
+#27 Remove Element
 
 ------------------------------------------------------------------------------------------------
 Details Description and Expand:
@@ -269,6 +270,18 @@ Given an integer, write a function to determine if it is a power of two.
 
 Source code:
 https://github.com/jianhaod/LeetCodeCpp/blob/master/LeetCodeCpp/231_PowerOfTwo.cpp
+
+Expand:
+
+#27 Remove Element
+LeetCode Link:
+https://leetcode.com/problems/remove-element/
+Problem description:
+Given an array and a value, remove all instances of that value in place and return the new length.
+The order of elements can be changed. It doesn't matter what you leave beyond the new length.
+
+Source code:
+https://github.com/jianhaod/LeetCodeCpp/blob/master/LeetCodeCpp/27_RemoveElement.cpp
 
 Expand:
 
