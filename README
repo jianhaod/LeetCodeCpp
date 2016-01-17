@@ -285,6 +285,18 @@ https://github.com/jianhaod/LeetCodeCpp/blob/master/LeetCodeCpp/27_RemoveElement
 
 Expand:
 
+#13 Roman to Integer
+LeetCode Link:
+https://leetcode.com/problems/roman-to-integer/
+Problem description:
+Given a roman numeral, convert it to an integer.
+Input is guaranteed to be within the range from 1 to 3999.
+
+Source code:
+https://github.com/jianhaod/LeetCodeCpp/blob/master/LeetCodeCpp/13_RomanToInteger.cpp
+
+Expand:
+
 #
 LeetCode Link:
 
