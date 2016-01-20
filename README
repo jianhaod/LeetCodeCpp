@@ -25,6 +25,7 @@ LeetCode problem list:
 #13 Roman to Integer
 #83 Remove Duplicates from Sorted List
 #21 Merge Two Sorted Lists
+#136 Single Number
 
 ------------------------------------------------------------------------------------------------
 Details Description and Expand:
@@ -337,6 +338,19 @@ Merge two sorted linked lists and return it as a new list. The new list should b
 
 Source code:
 https://github.com/jianhaod/LeetCodeCpp/blob/master/LeetCodeCpp/21_MergeTwoSortedLists.cpp
+
+Expand:
+
+#136 Single Number
+LeetCode Link:
+https://leetcode.com/problems/single-number/
+Problem description:
+Given an array of integers, every element appears twice except for one. Find that single one.
+
+Source code:
+https://github.com/jianhaod/LeetCodeCpp/blob/master/LeetCodeCpp/136_SingleNumber.cpp
+Note:
+Your algorithm should have a linear runtime complexity. Could you implement it without using extra memory?
 
 Expand:
 
