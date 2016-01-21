@@ -26,6 +26,7 @@ LeetCode problem list:
 #83 Remove Duplicates from Sorted List
 #21 Merge Two Sorted Lists
 #136 Single Number
+#110 Balanced Binary Tree
 
 ------------------------------------------------------------------------------------------------
 Details Description and Expand:
@@ -351,6 +352,18 @@ Source code:
 https://github.com/jianhaod/LeetCodeCpp/blob/master/LeetCodeCpp/136_SingleNumber.cpp
 Note:
 Your algorithm should have a linear runtime complexity. Could you implement it without using extra memory?
+
+Expand:
+
+#110 Balanced Binary Tree
+LeetCode Link:
+https://leetcode.com/problems/balanced-binary-tree/
+Problem description:
+Given a binary tree, determine if it is height-balanced.
+For this problem, a height-balanced binary tree is defined as a binary tree in which the depth of the two subtrees of every node never differ by more than 1.
+
+Source code:
+https://github.com/jianhaod/LeetCodeCpp/blob/master/LeetCodeCpp/110_BalancedBinaryTree.cpp
 
 Expand:
 
