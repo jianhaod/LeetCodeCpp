@@ -30,6 +30,7 @@ LeetCode problem list:
 #260 Single Number III
 #268 Missing Number
 #141 Linked List Cycle
+#190 Reverse Bits
 
 ------------------------------------------------------------------------------------------------
 Details Description and Expand:
@@ -412,6 +413,20 @@ Can you solve it without using extra space?
 
 Source code:
 https://github.com/jianhaod/LeetCodeCpp/blob/master/LeetCodeCpp/141_LinkedListCycle.cpp
+
+Expand:
+
+#190 Reverse Bits
+LeetCode Link:
+https://leetcode.com/problems/reverse-bits/
+Problem description:
+Reverse bits of a given 32 bits unsigned integer.
+For example, given input 43261596 (represented in binary as 00000010100101000001111010011100), return 964176192 (represented in binary as 00111001011110000010100101000000).
+Follow up:
+If this function is called many times, how would you optimize it?
+
+Source code:
+https://github.com/jianhaod/LeetCodeCpp/blob/master/LeetCodeCpp/190_ReverseBits.cpp
 
 Expand:
 
