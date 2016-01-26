@@ -33,6 +33,7 @@ LeetCode problem list:
 #190 Reverse Bits
 #107 Binary Tree Level Order Traversal II
 #144 Binary Tree Preorder Traversal
+#94 Binary Tree Inorder Traversal
 
 ------------------------------------------------------------------------------------------------
 Details Description and Expand:
@@ -472,6 +473,26 @@ return [1,2,3].
 
 Source code:
 https://github.com/jianhaod/LeetCodeCpp/blob/master/LeetCodeCpp/144_BinaryTreePreorderTraversal.cpp
+
+Expand:
+Note: Recursive solution is trivial, could you do it iteratively?
+
+#94 Binary Tree Inorder Traversal
+LeetCode Link:
+https://leetcode.com/problems/binary-tree-inorder-traversal/
+Problem description:
+Given a binary tree, return the inorder traversal of its nodes' values.
+For example:
+Given binary tree {1,#,2,3},
+      1
+       \
+        2
+       /
+      3
+return [1,3,2].
+
+Source code:
+https://github.com/jianhaod/LeetCodeCpp/blob/master/LeetCodeCpp/
 
 Expand:
 Note: Recursive solution is trivial, could you do it iteratively?
