@@ -34,6 +34,7 @@ LeetCode problem list:
 #107 Binary Tree Level Order Traversal II
 #144 Binary Tree Preorder Traversal
 #94 Binary Tree Inorder Traversal
+#35 Search Insert Position
 
 ------------------------------------------------------------------------------------------------
 Details Description and Expand:
@@ -496,6 +497,23 @@ https://github.com/jianhaod/LeetCodeCpp/blob/master/LeetCodeCpp/
 
 Expand:
 Note: Recursive solution is trivial, could you do it iteratively?
+
+#35 Search Insert Position
+LeetCode Link:
+https://leetcode.com/problems/search-insert-position/
+Problem description:
+Given a sorted array and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.
+You may assume no duplicates in the array.
+Here are few examples.
+[1,3,5,6], 5 --> 2
+[1,3,5,6], 2 --> 1
+[1,3,5,6], 7 --> 4
+[1,3,5,6], 0 --> 0
+
+Source code:
+https://github.com/jianhaod/LeetCodeCpp/blob/master/LeetCodeCpp/35_SearchInsertPosition.cpp
+
+Expand:
 
 #
 LeetCode Link:
